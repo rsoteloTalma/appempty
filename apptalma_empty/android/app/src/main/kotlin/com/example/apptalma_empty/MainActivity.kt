@@ -1,4 +1,4 @@
-package com.example.apptalma_empty
+package com.example.apptalma-empty
 
 import io.flutter.embedding.android.FlutterActivity
 
